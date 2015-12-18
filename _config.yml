@@ -10,8 +10,8 @@ title: Keshav Memorial Institute of Technology
 email: info@kmit.in
 description: > # this means to ignore newlines until "baseurl:"
   KMIT, established in year 2007 , is one of the premier engineering colleges in the state of Telangana. KMIT is sponsored by Keshav Memorial Education Society (KMES) ,well known in Hyderabad ,for the past 75 years, for running various educational institutions of repute.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arjun.ninja/baseurl" # the base hostname & protocol for your site
+baseurl: "/kmitdotin" # the subpath of your site, e.g. /blog
+url: "http://arjun.ninja" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 facebook_username: kmit2
